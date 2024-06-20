@@ -9,5 +9,4 @@ public class HexaDemoApplication {
   public static void main(String[] args) {
     SpringApplication.run(HexaDemoApplication.class, args);
   }
-
 }
